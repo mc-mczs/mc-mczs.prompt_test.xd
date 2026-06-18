@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+output*.json
+
+# Environment
+.env
